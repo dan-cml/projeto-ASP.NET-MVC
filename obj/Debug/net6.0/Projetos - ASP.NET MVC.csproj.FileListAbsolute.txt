@@ -1,0 +1,164 @@
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\appsettings.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.staticwebassets.runtime.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.exe
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.deps.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.runtimeconfig.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.pdb
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.AssemblyReference.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.AssemblyInfoInputs.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.AssemblyInfo.cs
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.CoreCompileInputs.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.RazorAssemblyInfo.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.RazorAssemblyInfo.cs
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\bundle\Projetos - ASP.NET MVC.styles.css
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\projectbundle\Projetos - ASP.NET MVC.bundle.scp.css
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\refint\Projetos - ASP.NET MVC.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.pdb
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.genruntimeconfig.cache
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\ref\Projetos - ASP.NET MVC.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Humanizer.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programação\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.CopyComplete
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\appsettings.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.staticwebassets.runtime.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.exe
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.deps.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.runtimeconfig.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Projetos - ASP.NET MVC.pdb
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Azure.Core.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Humanizer.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.AssemblyReference.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.AssemblyInfoInputs.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.AssemblyInfo.cs
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.CoreCompileInputs.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.RazorAssemblyInfo.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.RazorAssemblyInfo.cs
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\bundle\Projetos - ASP.NET MVC.styles.css
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\scopedcss\projectbundle\Projetos - ASP.NET MVC.bundle.scp.css
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.csproj.CopyComplete
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\refint\Projetos - ASP.NET MVC.dll
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.pdb
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\Projetos - ASP.NET MVC.genruntimeconfig.cache
+D:\Programacao\Bootcamps\Pottencial .NET Developer\Projetos\Projetos - ASP.NET MVC\obj\Debug\net6.0\ref\Projetos - ASP.NET MVC.dll

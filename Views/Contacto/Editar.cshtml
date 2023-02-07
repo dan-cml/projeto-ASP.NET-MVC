@@ -1,0 +1,42 @@
+@model Projetos___ASP.NET_MVC.Models.Contacto
+<!-- Aqui em cima a model não é mais Enuberable pq eu só quero um unico contato -->
+<!-- Aqui em baixo é o titulo da aba -->
+@{
+    ViewData["Title"] = "Editar contato";
+
+}
+
+<h1>Editar contato</h1>
+
+<hr/>
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Aqui o asp-action é um form/formulário de Criar e esse form vai jogar no etodo post -->
+        <form asp-action="Editar">
+            <div class="form-group">
+                <!-- o label é o "Nome" em cima e o input é a caixa de digitação -->
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Ativo" class="control-label"></label>
+                <input type="checkbox" asp-for="Ativo" class="form-check-input" />
+            </div>
+            <br>
+            <div class="form-group">
+                <!-- Aqui é de fato o Criar do metodo e vai jogar para o criar do post-->
+                <input type="submit" value="Editar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br>
+<div>
+    <!-- Aqui é só o hiperlink caso queira voltar da tela de criar novo contato -->
+    <a asp-action="Index">Voltar</a>
+</div>

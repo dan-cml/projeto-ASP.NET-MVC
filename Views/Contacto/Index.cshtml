@@ -1,0 +1,58 @@
+@model IEnumerable<Projetos___ASP.NET_MVC.Models.Contacto>
+<!-- Aqui em cima eu to carregando a lista de contatos-->
+<!-- Esse de baixo do titulo, é para dar nome a aba, ai quando entra na pagina fica esse titulo -->
+@{
+    ViewData["Title"] = "Listagem de contatos";
+}
+
+<h2>Contatos</h2>
+<!-- Esse asp-action é o hiperlink para criar o novo contato e recebe o mesmo nome do metodo CRIAR-->
+<p>
+    <a asp-action="Criar">Novo Contato</a>
+</p>
+<!-- Aqui tudo q está em baixo é o cabeçalho da lista, e pega as infomações da Model contato-->
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ativo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- O "foreach" aqui é para fazer um looping e ir mostrando os item da lista -->
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Ativo)
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a> |
+                    <a asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+        <!-- Aqui em cima vai fazer o hiperlink para as outras ações que precisa ter o mesmo nome no metodo -->
+    </tbody>
+</table>
